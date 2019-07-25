@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HandwritingRecognition": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\MNIST\\etrain-images.idx3-ubyte C:\\MNIST\\etrain-labels.idx1-ubyte"
+    }
+  }
+}
